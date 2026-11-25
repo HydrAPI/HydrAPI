@@ -1,8 +1,9 @@
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1200&color=E2E8F0&center=true&vCenter=true&width=720&lines=HydrAPI;Fachinformatiker+f%C3%BCr+Anwendungsentwicklung;Laravel+%C2%B7+TypeScript+%C2%B7+Java;Self+Hosting+auf+Proxmox+VE" />
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1200&color=0F172A&center=true&vCenter=true&width=720&lines=HydrAPI;Fachinformatiker+f%C3%BCr+Anwendungsentwicklung;Laravel+%C2%B7+TypeScript+%C2%B7+Java;Self+Hosting+auf+Proxmox+VE" alt="HydrAPI, Fachinformatiker für Anwendungsentwicklung" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1200&color=F1F5F9&center=true&vCenter=true&width=800&lines=HydrAPI;Fachinformatiker+f%C3%BCr+Anwendungsentwicklung;Laravel+%C2%B7+TypeScript+%C2%B7+Java;Self+Hosting+auf+Proxmox+VE" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1200&color=0F172A&center=true&vCenter=true&width=800&lines=HydrAPI;Fachinformatiker+f%C3%BCr+Anwendungsentwicklung;Laravel+%C2%B7+TypeScript+%C2%B7+Java;Self+Hosting+auf+Proxmox+VE" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1200&color=0F172A&center=true&vCenter=true&width=800&lines=HydrAPI;Fachinformatiker+f%C3%BCr+Anwendungsentwicklung;Laravel+%C2%B7+TypeScript+%C2%B7+Java;Self+Hosting+auf+Proxmox+VE" alt="HydrAPI, Fachinformatiker für Anwendungsentwicklung" />
   </picture>
 
   <p>
@@ -25,11 +26,29 @@ Neben der Entwicklung betreibe ich meine **Infrastruktur selbst**. Was ich tägl
 
 <table>
   <tr>
-    <td valign="top">
-      <h3>IDP-System</h3>
-      <sub><b>Contributor</b> · Open Source</sub>
-      <p>Open-Source-Projekt, an dem ich im Team mitarbeite. Ich kümmere mich unter anderem um Patches und Releases.</p>
-      <img src="https://img.shields.io/badge/Open_Source-0F172A?style=flat-square&logo=github&logoColor=white" alt="Open Source" />
+    <td width="50%" align="center" valign="top">
+      <br />
+      <a href="https://github.com/HydrAPI/voyager"><img src="https://raw.githubusercontent.com/HydrAPI/voyager/master/data/voyager.svg" alt="Voyager Logo" width="64" height="64" /></a>
+      <h3><a href="https://github.com/HydrAPI/voyager">Voyager</a></h3>
+      <sub><b>Maintainer</b></sub>
+      <p>Schneller Dateimanager für Linux mit dem Aufbau des Windows Explorers und den Funktionen von Caja. Split View, Tabs, Massenumbenennung und Prüfsummen, dabei sparsamer als Caja und Nemo.</p>
+      <img src="https://img.shields.io/badge/Rust-0F172A?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+      <img src="https://img.shields.io/badge/GTK-0F172A?style=flat-square&logo=gtk&logoColor=white" alt="GTK" />
+      <img src="https://img.shields.io/github/v/release/HydrAPI/voyager?style=flat-square&color=1E293B&label=Release" alt="Aktuelles Release" />
+      <img src="https://img.shields.io/badge/GPL--3.0-1E293B?style=flat-square" alt="Lizenz: GPL-3.0" />
+      <br /><br />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <a href="https://github.com/kzg-software/identity-provider"><img src="https://github.com/kzg-software.png" alt="KZG-Software Logo" width="64" height="64" /></a>
+      <h3><a href="https://github.com/kzg-software/identity-provider">Identity Provider</a></h3>
+      <sub><b>Contributor</b> bei KZG-Software</sub>
+      <p>Zentrale Anmeldung für interne Anwendungen. Single Sign-on per Passwort, Passkey oder Windows-Anmeldung, Konten aus Active Directory oder LDAP, angebunden über OpenID Connect und SAML. Läuft als ein Docker-Container.</p>
+      <img src="https://img.shields.io/badge/Laravel-0F172A?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+      <img src="https://img.shields.io/badge/PHP-0F172A?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/github/v/release/kzg-software/identity-provider?style=flat-square&color=1E293B&label=Release" alt="Aktuelles Release" />
+      <br /><br />
     </td>
   </tr>
 </table>
